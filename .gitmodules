@@ -1,0 +1,3 @@
+[submodule "Phishing Domain Detection App"]
+	path = Phishing Domain Detection App
+	url = https://github.com/rishabh11336/Phishing-detection.git
