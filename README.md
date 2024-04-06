@@ -38,11 +38,11 @@ git clone https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Det
 ```
 command: python -m venv venv
 ```
-## Learn more about virtual enviroment refer to
+#### Learn more about virtual enviroment refer to
 ```
 https://medium.com/@asusrishabh/requirements-txt-in-python-947b0b43bbe6
 ```
-- use requirement.txt in Phishing Domain Detection App to install compatible packages
+#### use requirement.txt in Phishing Domain Detection App to install compatible packages
 ```
 command: pip install -r requirement.txt
 ```
