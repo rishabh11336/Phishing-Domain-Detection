@@ -35,7 +35,7 @@ The project employs various machine learning algorithms tailored to the problem 
 <a href="#"><img src="https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/README/Python_logo.png" title="Python" alt="Python" width="170"/></a>
 &ensp;<a href="#"><img src="https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/README/Flask_restful_logo.png" title="Flask" alt="Flask" width="350"/></a><br>
 <a href="#"><img src="https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/README/sklearn_logo.png" title="sklearn" alt="sklearn" width="350"/></a>
-&ensp;<a href="#"><img src="https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/README/Cassandra_logo.png" title="Cassandra" alt="Cassandra" width="240"/></a>
+<a href="#"><img src="https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/README/Cassandra_logo.png" title="Cassandra" alt="Cassandra" width="180"/></a>
 </div>
 
 ### To Build this project
