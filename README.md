@@ -30,4 +30,24 @@ The project employs various machine learning algorithms tailored to the problem 
 ![Architecture Diagram](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/Architecture%20Diagrams.svg)
 - Complete solution design strategies [**High-Level Design (HLD)**](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/High-Level%20Design%20(HLD).pdf) and [**Low-Level Design (LLD)**](https://www.example.com) documents.
 
+### To Build this project
+```
+git clone https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection.git
+```
+#### create virtual enviroment
+```
+command: python -m venv venv
+```
+## Learn more about virtual enviroment refer to
+```
+https://medium.com/@asusrishabh/requirements-txt-in-python-947b0b43bbe6
+```
+- use requirement.txt in Phishing Domain Detection App to install compatible packages
+```
+command: pip install -r requirement.txt
+```
+```
+command: python app.py
+```
+
 For more details, refer to the [GitHub repository](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection) for the project.
