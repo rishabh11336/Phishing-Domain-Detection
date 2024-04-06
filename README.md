@@ -30,6 +30,15 @@ The project employs various machine learning algorithms tailored to the problem 
 ![Architecture Diagram](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/Architecture%20Diagrams.svg)
 - Complete solution design strategies [**High-Level Design (HLD)**](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/High-Level%20Design%20(HLD).pdf) and [**Low-Level Design (LLD)**](https://www.example.com) documents.
 
+<div align=center>
+<a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="50"/></a> 
+<a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="120"/></a> 
+&ensp;<a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="flask-svgrepo-com.svg" title="Flask" alt="Flask" width="50"/></a> 
+&ensp;<a href="https://getbootstrap.com/"><img src="bootstrap-fill.svg" title="Bootstrap" alt="Bootstrap" width="50"/></a> 
+&ensp;<a href="https://www.javascript.com/"><img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" title="Javascript" alt="Javascript" width="40"/></a> 
+&ensp;<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" title="Jupyter" alt="Jupyter" width="180"/></a>
+</div>
+
 ### To Build this project
 ```
 git clone https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection.git
