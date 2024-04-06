@@ -27,6 +27,7 @@ The project employs various machine learning algorithms tailored to the problem 
 - Python logging library is employed for logging every action performed by the code.
 
 ### Solution Design
+![Architecture Diagram](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/Architecture%20Diagrams.svg)
 - Complete solution design strategies [**High-Level Design (HLD)**](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/High-Level%20Design%20(HLD).pdf) and [**Low-Level Design (LLD)**](https://www.example.com) documents.
 
 
