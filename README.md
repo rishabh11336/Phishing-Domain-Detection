@@ -31,4 +31,4 @@ The project employs various machine learning algorithms tailored to the problem 
 - Complete solution design strategies [**High-Level Design (HLD)**](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/High-Level%20Design%20(HLD).pdf) and [**Low-Level Design (LLD)**](https://www.example.com) documents.
 
 
-For more details, refer to the [GitHub repository](https://github.com/namansehwal/Phishing-detection-based-Associative-Classification-data-mining.git) for the project.
+For more details, refer to the [GitHub repository](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection) for the project.
