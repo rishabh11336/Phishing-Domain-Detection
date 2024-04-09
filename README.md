@@ -1,5 +1,7 @@
 # Phishing Domain Detection Project
 
+## [Internship Experience Letter](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection/blob/main/internship%20experience.pdf)
+
 ## Project Overview
 This project focuses on developing a machine learning solution for detecting phishing domains. Phishing, a prevalent form of cyber fraud, involves attackers impersonating reputable entities to obtain sensitive information. The primary goal is to predict whether domains are real or malicious, thereby enhancing cybersecurity measures.  
 Challenge lies in differentiating between legitimate and malicious domains. Performed data exploration, cleaning, feature engineering, model building, and testing.
