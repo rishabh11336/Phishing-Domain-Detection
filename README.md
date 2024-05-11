@@ -45,7 +45,7 @@ The project employs various machine learning algorithms tailored to the problem 
 ```
 git clone https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection.git
 ```
-#### create virtual enviroment
+#### create virtual enviroment use `python 3.9`
 ```
 python -m venv venv
 ```
