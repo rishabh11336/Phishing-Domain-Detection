@@ -47,7 +47,11 @@ git clone https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Det
 ```
 #### create virtual enviroment use `python 3.9`
 ```
-python -m venv venv
+python -m venv <name of virtual environment>
+```
+or
+```
+conda create -n <name of virtual environment> python=3.9
 ```
 #### Learn more about virtual enviroment refer to
 ```
