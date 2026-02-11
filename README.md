@@ -89,3 +89,7 @@ urlphishingdetection.azurewebsites.net/fetch
 ```
 For more details, refer to the [GitHub repository](https://github.com/rishabh11336/iNeuron-Internship-Phishing-Domain-Detection) for the project.  
 If you are building this project locally, then new cassandra secret, token and clientid with keyspace and table will be required.
+
+```
+Currently project is down!
+```
